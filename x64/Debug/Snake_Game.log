@@ -1,0 +1,21 @@
+﻿  Game.cpp
+D:\Computer Science Stuff\3rd Semester\DSA Lab\Project\Snake_Game\Game.cpp(186,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Computer Science Stuff\3rd Semester\DSA Lab\Project\Snake_Game\Game.cpp(193,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Computer Science Stuff\3rd Semester\DSA Lab\Project\Snake_Game\Game.cpp(329,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Computer Science Stuff\3rd Semester\DSA Lab\Project\Snake_Game\Game.cpp(329,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Computer Science Stuff\3rd Semester\DSA Lab\Project\Snake_Game\Game.cpp(358,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Computer Science Stuff\3rd Semester\DSA Lab\Project\Snake_Game\Game.cpp(358,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Computer Science Stuff\3rd Semester\DSA Lab\Project\Snake_Game\Game.cpp(393,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Computer Science Stuff\3rd Semester\DSA Lab\Project\Snake_Game\Game.cpp(393,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Computer Science Stuff\3rd Semester\DSA Lab\Project\Snake_Game\Game.cpp(460,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Computer Science Stuff\3rd Semester\DSA Lab\Project\Snake_Game\Game.cpp(460,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+  Snake_Game.vcxproj -> D:\Computer Science Stuff\3rd Semester\DSA Lab\Project\Snake_Game\x64\Debug\Snake_Game.exe
